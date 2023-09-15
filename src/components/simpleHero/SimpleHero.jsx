@@ -15,8 +15,8 @@ export const SimpleHero = () => {
             </h1>
             <p class="mb-8 leading-relaxed">
               QR codes have emerged as a dynamic and indispensable tool in
-              today's digital landscape, showcasing their transformative power
-              across various industries. These unassuming two-dimensional
+              today&apos;s digital landscape, showcasing their transformative
+              power across various industries. These unassuming two-dimensional
               barcodes are the linchpin of contactless convenience, seamlessly
               bridging the gap between physical and digital realms. From
               facilitating secure mobile payments and simplifying event
