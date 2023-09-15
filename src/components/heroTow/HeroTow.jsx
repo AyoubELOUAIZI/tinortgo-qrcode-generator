@@ -49,7 +49,6 @@ export const HeroTow = ({ textvalue }) => {
             className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6 py-4"
             id="qrCodeImage"
           >
-            {/* // Can be anything instead of `maxWidth` that limits the width. */}
             <div
               style={{
                 height: "auto",
