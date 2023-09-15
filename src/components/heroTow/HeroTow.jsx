@@ -9,7 +9,7 @@ export const HeroTow = ({ textvalue }) => {
 
     html2canvas(table).then(function (canvas) {
       const link = document.createElement("a");
-      link.download = "table.png";
+      link.download = "qrCode.png";
       link.href = canvas.toDataURL("image/png");
       link.click();
     });
@@ -28,13 +28,13 @@ export const HeroTow = ({ textvalue }) => {
               After successfully creating your custom QR code, the next step is
               to download it for immediate use. This digital symbol, embedded
               with encoded information, can serve various purposes, from website
-              links to contact details. Simply click the "Download" button or
-              right-click on the QR code image, depending on your platform. Save
-              it to your preferred location on your device, and you're ready to
-              share it with others or integrate it into your projects. This
-              straightforward process ensures quick and convenient access to
-              your QR code whenever you need it, enhancing your connectivity and
-              convenience in the digital world.
+              links to contact details. Simply click the &quot;Download&quot;
+              button or right-click on the QR code image, depending on your
+              platform. Save it to your preferred location on your device, and
+              you&apos;re ready to share it with others or integrate it into
+              your projects. This straightforward process ensures quick and
+              convenient access to your QR code whenever you need it, enhancing
+              your connectivity and convenience in the digital world.
             </p>
             <div className="flex justify-center">
               <button
