@@ -11,7 +11,7 @@ export default function PrivacyPolicy() {
         <section className="mb-6">
           <h2 className="text-xl font-semibold">
             Privacy Policy for our site:
-            <span style={{ color: "blue" }}>
+            <span style={{ color: "green" }}>
               tinortgo-qrcode-generator.vercel.app
             </span>
           </h2>

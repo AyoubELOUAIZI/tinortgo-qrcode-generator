@@ -30,7 +30,7 @@ export const Footer = () => {
               alt="city"
               width={400} // Set your desired width here
               height={300} // Set your desired height here
-              src="https://tecdn.b-cdn.net/img/new/fluid/city/112.webp"
+              src="https://tecdn.b-cdn.net/img/new/fluid/city/125.webp"
               className="w-full rounded-md shadow-lg"
             />
           </div>
@@ -39,7 +39,7 @@ export const Footer = () => {
               alt="city"
               width={400} // Set your desired width here
               height={300} // Set your desired height here
-              src="https://tecdn.b-cdn.net/img/new/fluid/city/114.webp"
+              src="https://tecdn.b-cdn.net/img/new/fluid/city/119.webp"
               className="w-full rounded-md shadow-lg"
             />
           </div>
@@ -48,7 +48,7 @@ export const Footer = () => {
               alt="city"
               width={400} // Set your desired width here
               height={300} // Set your desired height here
-              src="https://tecdn.b-cdn.net/img/new/fluid/city/115.webp"
+              src="https://tecdn.b-cdn.net/img/new/fluid/city/118.webp"
               className="w-full rounded-md shadow-lg"
             />
           </div>
@@ -57,7 +57,7 @@ export const Footer = () => {
               alt="city"
               width={400} // Set your desired width here
               height={300} // Set your desired height here
-              src="https://tecdn.b-cdn.net/img/new/fluid/city/116.webp"
+              src="https://tecdn.b-cdn.net/img/new/fluid/city/109.webp"
               className="w-full rounded-md shadow-lg"
             />
           </div>
@@ -67,24 +67,24 @@ export const Footer = () => {
       <div class="container p-6 text-neutral-800 dark:text-neutral-200">
         <div class="grid gap-4 lg:grid-cols-2">
           <div class="mb-6 md:mb-0">
-            <h5 class="mb-2 font-medium uppercase">Footer text</h5>
+            <h5 class="mb-2 font-medium uppercase">QR Code Generator</h5>
 
             <p class="mb-4">
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iste
-              atque ea quis molestias. Fugiat pariatur maxime quis culpa
-              corporis vitae repudiandae aliquam voluptatem veniam, est atque
-              cumque eum delectus sint!
+              Create QR codes effortlessly with our QR Code Generator service.
+              Easily generate QR codes for websites, contact information, Wi-Fi
+              networks, and more. Simplify your information sharing and access
+              needs with customizable QR codes.
             </p>
           </div>
 
           <div class="mb-6 md:mb-0">
-            <h5 class="mb-2 font-medium uppercase">Footer text</h5>
+            <h5 class="mb-2 font-medium uppercase">Why QR Codes Matter</h5>
 
             <p class="mb-4">
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iste
-              atque ea quis molestias. Fugiat pariatur maxime quis culpa
-              corporis vitae repudiandae aliquam voluptatem veniam, est atque
-              cumque eum delectus sint!
+              QR codes have become essential in our digital age. They enable
+              contactless transactions, streamline marketing efforts, and
+              provide a quick way to access information. Stay ahead with our QR
+              code solutions.
             </p>
           </div>
         </div>

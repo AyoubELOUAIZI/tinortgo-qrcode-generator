@@ -73,7 +73,7 @@ export const Navbar = () => {
             <li>
               <Link
                 className="md:p-4 py-2 block hover:text-white"
-                href="/youtube-thumbnails"
+                href="/qr-code"
               >
                 QR Code
               </Link>

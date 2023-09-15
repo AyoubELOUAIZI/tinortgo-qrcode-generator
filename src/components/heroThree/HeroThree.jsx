@@ -32,7 +32,7 @@ export const HeroThree = ({ textvalue, setTextvalue }) => {
             <input
               type="text"
               className="rounded-md w-full p-3 "
-              placeholder="Paste Youtube video Url"
+              placeholder="Type here to generate qrcode ..."
               onChange={(e) => {
                 setTextvalue(e.target.value);
               }}
